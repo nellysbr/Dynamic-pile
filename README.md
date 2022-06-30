@@ -6,8 +6,8 @@ Pilha de alocação dinâmica em C (Dynamic pile in c).
 
 # funções:
 
-*iniciaPilha
-*pop
-*push
-*vazia
-*imprimir
+* iniciaPilha
+* pop
+* push
+* vazia
+* imprimir
